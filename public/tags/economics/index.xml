@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>economics on NC Triad Research</title>
+    <link>/tags/economics/</link>
+    <description>Recent content in economics on NC Triad Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Michael DeWitt, {year}</copyright>
+    <lastBuildDate>Tue, 08 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/economics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Incentives and Refro Corp</title>
+      <link>/post/incentives-and-refro-corp/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/incentives-and-refro-corp/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/rmarkdown-libs/leaflet/leaflet.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/leaflet/leaflet.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/rmarkdown-libs/leafletfix/leafletfix.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/Proj4Leaflet/proj4-compressed.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/Proj4Leaflet/proj4leaflet.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/rmarkdown-libs/rstudio_leaflet/rstudio_leaflet.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/leaflet-binding/leaflet.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The Winston-Salem Journal, one of the papers of record in Winston-Salem published the following article &lt;a href=&#34;https://www.journalnow.com/news/columnists/it-s-a-little-like-flirting-with-your-buddy-s/article_a99cc914-f546-5e8f-aeca-9e13445cce60.html&#34;&gt;It’s a little like flirting with your buddy’s ex. Winston-Salem, Forsyth County attempt incentives to lure Renfro from Mount Airy.&lt;/a&gt;. Despite the &lt;em&gt;Parks and Rec&lt;/em&gt;-esque title, it does pose several interesting questions:&lt;/p&gt;
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;Should a neighboring city recruit another company using incentives (a normative question about what &lt;em&gt;should&lt;/em&gt; be done).&lt;/li&gt;
+&lt;li&gt;What kind of incentives should be offered (which hopefully pay for themselves)?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div id=&#34;unpacking-the-incentives&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Unpacking the Incentives&lt;/h1&gt;
+&lt;div id=&#34;from-the-city&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;From the City&lt;/h2&gt;
+&lt;p&gt;From what you can read in the article, Renfro is interested in moving its corporate headquarters from Mount Airey, NC (home of Newberry from the Andy Griffith show). In order to sweeten the deal and to recruit Renfro, Winston-Salem and Forsyth County have offered some economic incentives to Renfro to relocated to Winston. These include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;City of Winston Salem to pay 65% of net property and sales taxes for 10 years&lt;/li&gt;
+&lt;li&gt;1,500 bonus for each low- or moderate-income person it hires from designated neighborhoods where people are disadvantaged.&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The city estimates that this will cost about $300k in revenues paid out over five years.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;from-the-county&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;From the County&lt;/h2&gt;
+&lt;p&gt;Additionally, Forsyth County would also throw in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 cent on the dollar for additional sales tax revenues generated here by company purchases (for 10 years)&lt;/li&gt;
+&lt;li&gt;50% of the new property taxes it generates (for 10 years)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The county estimates that this will be around $146K paid over ten years.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-renfro-brings-to-winston&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What Renfro Brings to Winston&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Relocated 175 jobs&lt;/li&gt;
+&lt;li&gt;Possible addition of 50 new jobs over the next 5 years&lt;/li&gt;
+&lt;li&gt;Creation of a “significant” office presence in downtown Winston&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To meet the county incentives, they will need to meet the following provisions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Capital investment of $1M in business property downtown over the 10 years&lt;/li&gt;
+&lt;li&gt;Average wage of workers must be $95k/year&lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;so-is-it-a-good-deal&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;So is it a good deal?&lt;/h1&gt;
+&lt;p&gt;At face, it looks like a decent deal; almost $500k to generate 250 jobs? However, we have to step into this further.&lt;/p&gt;
+&lt;p&gt;First, we have to realize that Mt Airey is around 40 minutes from Winston-Salem. The first 175 jobs mentioned are job transfers. It stands that those who will transfer will be employees with longer tenures with the company (i.e. have been there longer) and thus will earn higher wages. Additionally, it stands to reason that they can and will comute from where they live now as there aren’t a ton of alternative&lt;/p&gt;
+&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:672px;height:480px;&#34; class=&#34;leaflet html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;calls&#34;:[{&#34;method&#34;:&#34;addTiles&#34;,&#34;args&#34;:[&#34;//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#34;,null,null,{&#34;minZoom&#34;:0,&#34;maxZoom&#34;:18,&#34;tileSize&#34;:256,&#34;subdomains&#34;:&#34;abc&#34;,&#34;errorTileUrl&#34;:&#34;&#34;,&#34;tms&#34;:false,&#34;noWrap&#34;:false,&#34;zoomOffset&#34;:0,&#34;zoomReverse&#34;:false,&#34;opacity&#34;:1,&#34;zIndex&#34;:1,&#34;detectRetina&#34;:false,&#34;attribution&#34;:&#34;&amp;copy; &lt;a href=\&#34;http://openstreetmap.org\&#34;&gt;OpenStreetMap&lt;\/a&gt; contributors, &lt;a href=\&#34;http://creativecommons.org/licenses/by-sa/2.0/\&#34;&gt;CC-BY-SA&lt;\/a&gt;&#34;}]},{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[[36.099861,36.5032509],[-80.244217,-80.612719],null,null,null,{&#34;interactive&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},null,null,null,null,[&#34;Winston-Salem&#34;,&#34;Mt Airey&#34;],{&#34;interactive&#34;:false,&#34;permanent&#34;:false,&#34;direction&#34;:&#34;auto&#34;,&#34;opacity&#34;:1,&#34;offset&#34;:[0,0],&#34;textsize&#34;:&#34;10px&#34;,&#34;textOnly&#34;:false,&#34;className&#34;:&#34;&#34;,&#34;sticky&#34;:true},null]}],&#34;limits&#34;:{&#34;lat&#34;:[36.099861,36.5032509],&#34;lng&#34;:[-80.612719,-80.244217]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;See &lt;a href=&#34;https://www.journalnow.com/news/city-oks-renfro-incentives/article_7d4db708-d478-5955-b4e2-4b9ef80685ef.html&#34; class=&#34;uri&#34;&gt;https://www.journalnow.com/news/city-oks-renfro-incentives/article_7d4db708-d478-5955-b4e2-4b9ef80685ef.html&lt;/a&gt;&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn2&#34;&gt;&lt;p&gt;Please note that they have already announced that executives makes 240K on average, and entry level positions start at around 55K&lt;a href=&#34;#fnref2&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+---
+title: Incentives and Refro Corp
+author: Michael DeWitt
+date: '2019-10-08'
+slug: incentives-and-refro-corp
+categories:
+  - economics
+  - incentives
+tags:
+  - incentives
+  - economics
+  - growth
+subtitle: ''
+summary: ''
+authors: [michael]
+lastmod: '2019-10-08T06:24:00-04:00'
+featured: no
+image:
+  caption: 'Winston-Salem and Forsyth County are offering incentives to lure a sock manufacturer, Renfro to move its corporate headquarters. What are the things we should be thinking about when we see this in the news?'
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+The Winston-Salem Journal, one of the papers of record in Winston-Salem published the following article [It’s a little like flirting with your buddy’s ex. Winston-Salem, Forsyth County attempt incentives to lure Renfro from Mount Airy.](https://www.journalnow.com/news/columnists/it-s-a-little-like-flirting-with-your-buddy-s/article_a99cc914-f546-5e8f-aeca-9e13445cce60.html). Despite the _Parks and Rec_-esque title, it does pose several interesting questions:
+
+1. Should a neighboring city recruit another company using incentives (a normative question about what _should_ be done). 
+1. What kind of incentives should be offered (which hopefully pay for themselves)?
+
+# Unpacking the Incentives
+
+## From the City
+
+From what you can read in the article, Renfro is interested in moving its corporate headquarters from Mount Airey, NC (home of Newberry from the Andy Griffith show). In order to sweeten the deal and to recruit Renfro, Winston-Salem and Forsyth County have offered some economic incentives to Renfro to relocated to Winston. These include:
+
+* City of Winston Salem to pay 65% of net property and sales taxes for 10 years 
+* 1,500 bonus for each low- or moderate-income person it hires from designated neighborhoods where people are disadvantaged.^[See <https://www.journalnow.com/news/city-oks-renfro-incentives/article_7d4db708-d478-5955-b4e2-4b9ef80685ef.html>]
+
+The city estimates that this will cost about $300k in revenues paid out over five years.
+
+## From the County
+
+Additionally, Forsyth County would also throw in:
+
+* 1 cent on the dollar for additional sales tax revenues generated here by company purchases (for 10 years) 
+* 50% of the new property taxes it generates (for 10 years) 
+
+The county estimates that this will be around $146K paid over ten years.
+
+## What Renfro Brings to Winston
+
+* Relocated 175 jobs 
+* Possible addition of 50 new jobs over the next  5 years 
+* Creation of a "significant" office presence in downtown Winston 
+
+To meet the county incentives, they will need to meet the following provisions:
+
+* Capital investment of $1M in business property downtown over the 10 years 
+* Average wage of workers must be $95k/year^[Please note that they have already announced that executives makes 240K on average, and entry level positions start at around 55K] 
+
+# So is it a good deal?
+
+At face, it looks like a decent deal; almost $500k to generate 250 jobs? However, we have to step into this further.
+
+First, we have to realize that Mt Airey is around 40 minutes from Winston-Salem. The first 175 jobs mentioned are job transfers. It stands that those who will transfer will be employees with longer tenures with the company (i.e. have been there longer) and thus will earn higher wages. Additionally, it stands to reason that they can and will comute from where they live now as there aren't a ton of alternative 
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, fig.align='center'}
+library(tidyverse)
+library(leaflet)
+
+cities <- tribble(
+  ~"city", ~"lat", ~"lon", 
+  "Winston-Salem", 36.099861, -80.244217,
+  "Mt Airey", 36.5032509, -80.612719,
+)
+
+leaflet() %>% 
+  addTiles() %>% 
+  addMarkers(lat = cities$lat, lng = cities$lon, label = cities$city)
+  
+
+```
+
