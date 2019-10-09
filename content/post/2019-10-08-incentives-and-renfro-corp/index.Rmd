@@ -11,7 +11,7 @@ tags:
   - economics
   - growth
 subtitle: ''
-summary: 'Winston-Salem and Forsyth County are offering incentives to lure a sock manufacturer, Renfro to move its corporate headquarters. What are the things we should be thinking about when we see this in the news?'
+summary: 'Winston-Salem and Forsyth County are offering incentives to lure a textile manufacturer, Renfro, to move its corporate headquarters. What are the things we should be thinking about when we see this in the news?'
 authors: [michael]
 lastmod: '2019-10-08T06:24:00-04:00'
 featured: no
@@ -60,9 +60,9 @@ To meet the county incentives, they will need to meet the following provisions:
 
 # So is it a good deal?
 
-At face, it looks like a decent deal; almost $500k to generate 250 jobs? However, we have to step into this further.
+At face, it looks like a decent deal; almost $500k to generate 250 jobs? However, we have to step into this further. Importantly, we want to examine the worst case scenario. If it is a trade that is worth making in the worst case, then it will be a good deal in all other cases.
 
-First, we have to realize that Mt Airey is around 40 minutes from Winston-Salem. The first 175 jobs mentioned are job transfers. It stands that those who will transfer will be employees with longer tenures with the company (i.e. have been there longer) and thus will earn higher wages. Additionally, it stands to reason that they can and will comute from where they live now as there aren't a ton of alternative 
+First, we have to realize that Mt Airey is around 40 minutes from Winston-Salem. The first 175 jobs mentioned are job transfers. It stands that those who will transfer will be employees with longer tenures with the company (i.e. have been there longer) and thus will earn higher wages. Additionally, it stands to reason that they can and will comute from where they live now as there aren't a ton of alternative employers in the area.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, fig.align='center'}
 library(tidyverse)
@@ -81,3 +81,78 @@ leaflet() %>%
 
 ```
 
+Additionally, the CEO of the company, Stan Jewell, has already indicated that he lives in Winston-Salem. 
+
+# Impacts to Think About
+
+## Base Case With Existing Jobs 
+
+Bringing people into Winston-Salem that otherwise would not be there is a good thing. So what are the potential benefits?
+
+* The relocated jobs may decide to move closer to Winston-Salem and begin to pay property taxes and invest in the local economy (buy goods, food, etc) 
+* Investment in property increasing the value of downtown property 
+* Make the area more attractive to other business 
+* Tangental growth in jobs (e.g. other services likehiring cleaners to clean the building, etc)
+
+## Hiring Up to 50 Employees
+
+Hiring new workers is always good for the economy. Assumign that these persons otherwise were not employed or were employed at a lower salary, more people could have gainful employement. This could decrease the supply of workers and thus increase wages^[Though this doesn't always happen and depends on the job types.] This is good for a variety of reasons, mainly income is coming into peoples pockets and being in the city in general. Key here that it is "up to 50" employees, which is not a guarantee that these jobs will be created.
+
+## Worst Case Simulation
+
+At worst case let's assume all 175 people live in Winston-Salem and will not relocate. If that is the case we will gain a little in lunches that may be bought downtown, the investment in the property downtown and the additional service jobs.
+
+So let's calculate the income generated from taxes for these new employees going out to lunch:
+
+```{r}
+n <- 175
+
+cost_lunch <- 11 
+
+ws_sales_tax <- 0.02
+
+working_weeks <- 50
+
+days_out_per_week <- 2.5
+
+rest_profit_margin <- 0.03
+
+(sales_revenue <- n * cost_lunch * working_weeks * days_out_per_week)
+
+(rest_profit <- sales_revenue * rest_profit_margin)
+
+(tax_revenue <- sales_revenue * ws_sales_tax)
+
+```
+
+Okay, so not so much revenue generated in the form of taxes or the increased business per year (`r scales::dollar(rest_profit + tax_revenue, accuracy = 2)` per year). Let's also assume that this new company hires a cleaning service and a general maintenance crew to clean the building for a contract part time (35 hours per week, 50 weeks a year for $15 an hour to the contracting service).
+
+```{r}
+(building_service <- 35*50*15)
+```
+
+So now we are up to `r scales::dollar(rest_profit + tax_revenue + building_service, accuracy = 2)`.
+
+And finally, we can look at the investment in property. Let's assume that they have $1M in property^[I believe at one point they needed to spend 1M on property or rennovations, but I don't recall.]
+
+```{r}
+county_tax <- 0.7535 # per $100 of valuation
+city_tax <- 0.6374 # per $100 of valuation
+city_rebate <- .65
+
+(property_tax_revenue <- 1000000/100*city_tax*(1-city_rebate))
+```
+
+Renfro is a private company so we don't have all of the normal information about revenues, profit and losses, and other information. IF we did we could make some estimates about any kind of local taxes that would pay on transactions. It also stands to reason that they will take advantage of whatever accountign structures already exist and the City of Winston-Salem will see marginal sales tax here (other than furnishing the office).
+
+Okay so a this point, in the worst case this move will generate:
+
+```{r}
+(new_monies_generated <- tax_revenue + rest_profit + building_service +property_tax_revenue)
+```
+
+So with the rebates of 300K paid over 5 years, the payback will be `r round(300000/new_monies_generated,1)` years in the absolute worst case. Those aren't great paybacks in the worst case. Ideally, if a deal works in the worst case then all other scenarios will be successful.
+
+## Conclusion
+
+This plan really needs the job creation component in order to be successful. If jobs are generated or people don't move into Winston-Salem, then these incentives will cost the city (and the people of Winston-Salem).

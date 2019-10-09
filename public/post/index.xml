@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Videos / Posts on NC Triad Research</title>
+    <title>Posts on NC Triad Research</title>
     <link>/post/</link>
-    <description>Recent content in Videos / Posts on NC Triad Research</description>
+    <description>Recent content in Posts on NC Triad Research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Michael DeWitt, {year}</copyright>
@@ -71,16 +71,79 @@
 &lt;/div&gt;
 &lt;div id=&#34;so-is-it-a-good-deal&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;So is it a good deal?&lt;/h1&gt;
-&lt;p&gt;At face, it looks like a decent deal; almost $500k to generate 250 jobs? However, we have to step into this further.&lt;/p&gt;
-&lt;p&gt;First, we have to realize that Mt Airey is around 40 minutes from Winston-Salem. The first 175 jobs mentioned are job transfers. It stands that those who will transfer will be employees with longer tenures with the company (i.e. have been there longer) and thus will earn higher wages. Additionally, it stands to reason that they can and will comute from where they live now as there aren’t a ton of alternative&lt;/p&gt;
+&lt;p&gt;At face, it looks like a decent deal; almost $500k to generate 250 jobs? However, we have to step into this further. Importantly, we want to examine the worst case scenario. If it is a trade that is worth making in the worst case, then it will be a good deal in all other cases.&lt;/p&gt;
+&lt;p&gt;First, we have to realize that Mt Airey is around 40 minutes from Winston-Salem. The first 175 jobs mentioned are job transfers. It stands that those who will transfer will be employees with longer tenures with the company (i.e. have been there longer) and thus will earn higher wages. Additionally, it stands to reason that they can and will comute from where they live now as there aren’t a ton of alternative employers in the area.&lt;/p&gt;
 &lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:672px;height:480px;&#34; class=&#34;leaflet html-widget&#34;&gt;&lt;/div&gt;
 &lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;calls&#34;:[{&#34;method&#34;:&#34;addTiles&#34;,&#34;args&#34;:[&#34;//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#34;,null,null,{&#34;minZoom&#34;:0,&#34;maxZoom&#34;:18,&#34;tileSize&#34;:256,&#34;subdomains&#34;:&#34;abc&#34;,&#34;errorTileUrl&#34;:&#34;&#34;,&#34;tms&#34;:false,&#34;noWrap&#34;:false,&#34;zoomOffset&#34;:0,&#34;zoomReverse&#34;:false,&#34;opacity&#34;:1,&#34;zIndex&#34;:1,&#34;detectRetina&#34;:false,&#34;attribution&#34;:&#34;&amp;copy; &lt;a href=\&#34;http://openstreetmap.org\&#34;&gt;OpenStreetMap&lt;\/a&gt; contributors, &lt;a href=\&#34;http://creativecommons.org/licenses/by-sa/2.0/\&#34;&gt;CC-BY-SA&lt;\/a&gt;&#34;}]},{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[[36.099861,36.5032509],[-80.244217,-80.612719],null,null,null,{&#34;interactive&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},null,null,null,null,[&#34;Winston-Salem&#34;,&#34;Mt Airey&#34;],{&#34;interactive&#34;:false,&#34;permanent&#34;:false,&#34;direction&#34;:&#34;auto&#34;,&#34;opacity&#34;:1,&#34;offset&#34;:[0,0],&#34;textsize&#34;:&#34;10px&#34;,&#34;textOnly&#34;:false,&#34;className&#34;:&#34;&#34;,&#34;sticky&#34;:true},null]}],&#34;limits&#34;:{&#34;lat&#34;:[36.099861,36.5032509],&#34;lng&#34;:[-80.612719,-80.244217]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;p&gt;Additionally, the CEO of the company, Stan Jewell, has already indicated that he lives in Winston-Salem.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;impacts-to-think-about&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Impacts to Think About&lt;/h1&gt;
+&lt;div id=&#34;base-case-with-existing-jobs&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Base Case With Existing Jobs&lt;/h2&gt;
+&lt;p&gt;Bringing people into Winston-Salem that otherwise would not be there is a good thing. So what are the potential benefits?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The relocated jobs may decide to move closer to Winston-Salem and begin to pay property taxes and invest in the local economy (buy goods, food, etc)&lt;/li&gt;
+&lt;li&gt;Investment in property increasing the value of downtown property&lt;/li&gt;
+&lt;li&gt;Make the area more attractive to other business&lt;/li&gt;
+&lt;li&gt;Tangental growth in jobs (e.g. other services likehiring cleaners to clean the building, etc)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;hiring-up-to-50-employees&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Hiring Up to 50 Employees&lt;/h2&gt;
+&lt;p&gt;Hiring new workers is always good for the economy. Assumign that these persons otherwise were not employed or were employed at a lower salary, more people could have gainful employement. This could decrease the supply of workers and thus increase wages&lt;a href=&#34;#fn3&#34; class=&#34;footnote-ref&#34; id=&#34;fnref3&#34;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; This is good for a variety of reasons, mainly income is coming into peoples pockets and being in the city in general. Key here that it is “up to 50” employees, which is not a guarantee that these jobs will be created.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;worst-case-simulation&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Worst Case Simulation&lt;/h2&gt;
+&lt;p&gt;At worst case let’s assume all 175 people live in Winston-Salem and will not relocate. If that is the case we will gain a little in lunches that may be bought downtown, the investment in the property downtown and the additional service jobs.&lt;/p&gt;
+&lt;p&gt;So let’s calculate the income generated from taxes for these new employees going out to lunch:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;n &amp;lt;- 175
+
+cost_lunch &amp;lt;- 11 
+
+ws_sales_tax &amp;lt;- 0.02
+
+working_weeks &amp;lt;- 50
+
+days_out_per_week &amp;lt;- 2.5
+
+rest_profit_margin &amp;lt;- 0.03
+
+(sales_revenue &amp;lt;- n * cost_lunch * working_weeks * days_out_per_week)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 240625&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;(rest_profit &amp;lt;- sales_revenue * rest_profit_margin)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 7218.75&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;(tax_revenue &amp;lt;- sales_revenue * ws_sales_tax)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 4812.5&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Okay, so not so much revenue generated in the form of taxes or the increased business per year ($12,032 per year). Let’s also assume that this new company hires a cleaning service and a general maintenance crew to clean the building for a contract part time (35 hours per week, 50 weeks a year for $15 an hour to the contracting service).&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;(building_service &amp;lt;- 35*50*15)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 26250&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;So now we are up to $38,282.&lt;/p&gt;
+&lt;p&gt;And finally, we can look at the investment in property. Let’s assume that they have $1M in property&lt;a href=&#34;#fn4&#34; class=&#34;footnote-ref&#34; id=&#34;fnref4&#34;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;county_tax &amp;lt;- 0.7535 # per $100 of valuation
+city_tax &amp;lt;- 0.6374 # per $100 of valuation
+city_rebate &amp;lt;- .65
+
+(property_tax_revenue &amp;lt;- 1000000/100*city_tax*(1-city_rebate))&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 2230.9&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Renfro is a private company so we don’t have all of the normal information about revenues, profit and losses, and other information. IF we did we could make some estimates about any kind of local taxes that would pay on transactions. It also stands to reason that they will take advantage of whatever accountign structures already exist and the City of Winston-Salem will see marginal sales tax here (other than furnishing the office).&lt;/p&gt;
+&lt;p&gt;Okay so a this point, in the worst case this move will generate:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;(new_monies_generated &amp;lt;- tax_revenue + rest_profit + building_service +property_tax_revenue)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 40512.15&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;So with the rebates of 300K paid over 5 years, the payback will be 7.4 years in the absolute worst case. Those aren’t great paybacks in the worst case. Ideally, if a deal works in the worst case then all other scenarios will be successful.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;conclusion&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;This plan really needs the job creation component in order to be successful. If jobs are generated or people don’t move into Winston-Salem, then these incentives will cost the city (and the people of Winston-Salem).&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;See &lt;a href=&#34;https://www.journalnow.com/news/city-oks-renfro-incentives/article_7d4db708-d478-5955-b4e2-4b9ef80685ef.html&#34; class=&#34;uri&#34;&gt;https://www.journalnow.com/news/city-oks-renfro-incentives/article_7d4db708-d478-5955-b4e2-4b9ef80685ef.html&lt;/a&gt;&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;li id=&#34;fn2&#34;&gt;&lt;p&gt;Please note that they have already announced that executives makes 240K on average, and entry level positions start at around 55K&lt;a href=&#34;#fnref2&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn3&#34;&gt;&lt;p&gt;Though this doesn’t always happen and depends on the job types.&lt;a href=&#34;#fnref3&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn4&#34;&gt;&lt;p&gt;I believe at one point they needed to spend 1M on property or rennovations, but I don’t recall.&lt;a href=&#34;#fnref4&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
