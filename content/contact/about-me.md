@@ -52,5 +52,8 @@ The purpose of this site is to show applied research in the North Carolina Triad
 
 * applied economics 
 * public policy reseach 
+* program effectiveness
+
+The opinions reflected here are my own and do not necessarily reflect those of my employer. 
 
 Note that this website and structure is borrowed from [Jim Hester](jimhester.com)
