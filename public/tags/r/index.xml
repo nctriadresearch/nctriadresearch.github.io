@@ -7,10 +7,22 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Michael DeWitt, {year}</copyright>
-    <lastBuildDate>Sat, 04 May 2019 19:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2019 19:10:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ncvoter</title>
+      <link>/project/ncvoter/</link>
+      <pubDate>Tue, 08 Oct 2019 19:10:00 +0000</pubDate>
+      
+      <guid>/project/ncvoter/</guid>
+      <description>&lt;p&gt;This package provides a way to easily access the North Carolina voter rolls and voting history. The North Carolina State Elections Board hosts these data on their website, but sometimes it is easier to pull these data directly into R. This package will also have the option to create a local SQLlite instance as they can get quite large. This should facilitate research using these data by allowing the calls to be made directly through R.&lt;/p&gt;
+
+&lt;p&gt;Good luck and happy researching!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>wspdscanr</title>

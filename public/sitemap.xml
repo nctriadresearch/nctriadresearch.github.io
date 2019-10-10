@@ -4,16 +4,66 @@
   
   <url>
     <loc>/authors/michael/</loc>
-    <lastmod>2019-10-08T06:24:00-04:00</lastmod>
+    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-10-08T06:24:00-04:00</lastmod>
+    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/ncvoter/</loc>
+    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/package/</loc>
+    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/package/</loc>
+    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/public-data/</loc>
+    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/voting/</loc>
+    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/economics/</loc>
     <lastmod>2019-10-08T06:24:00-04:00</lastmod>
   </url>
   
@@ -23,17 +73,7 @@
   </url>
   
   <url>
-    <loc>/tags/economics/</loc>
-    <lastmod>2019-10-08T06:24:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/growth/</loc>
-    <lastmod>2019-10-08T06:24:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/incentives/</loc>
     <lastmod>2019-10-08T06:24:00-04:00</lastmod>
   </url>
   
@@ -43,12 +83,12 @@
   </url>
   
   <url>
-    <loc>/post/incentives-and-refro-corp/</loc>
+    <loc>/tags/incentives/</loc>
     <lastmod>2019-10-08T06:24:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/post/incentives-and-refro-corp/</loc>
     <lastmod>2019-10-08T06:24:00-04:00</lastmod>
   </url>
   
@@ -58,37 +98,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-10-08T06:24:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/crime/</loc>
-    <lastmod>2019-05-04T19:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/package/</loc>
-    <lastmod>2019-05-04T19:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/package/</loc>
-    <lastmod>2019-05-04T19:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2019-05-04T19:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/public-data/</loc>
-    <lastmod>2019-05-04T19:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
     <lastmod>2019-05-04T19:10:00+00:00</lastmod>
   </url>
   

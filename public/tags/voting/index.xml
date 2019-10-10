@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Public Data on NC Triad Research</title>
-    <link>/tags/public-data/</link>
-    <description>Recent content in Public Data on NC Triad Research</description>
+    <title>voting on NC Triad Research</title>
+    <link>/tags/voting/</link>
+    <description>Recent content in voting on NC Triad Research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Michael DeWitt, {year}</copyright>
     <lastBuildDate>Tue, 08 Oct 2019 19:10:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/public-data/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/voting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,16 +21,6 @@
       <description>&lt;p&gt;This package provides a way to easily access the North Carolina voter rolls and voting history. The North Carolina State Elections Board hosts these data on their website, but sometimes it is easier to pull these data directly into R. This package will also have the option to create a local SQLlite instance as they can get quite large. This should facilitate research using these data by allowing the calls to be made directly through R.&lt;/p&gt;
 
 &lt;p&gt;Good luck and happy researching!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>wspdscanr</title>
-      <link>/project/wspdscanr/</link>
-      <pubDate>Sat, 04 May 2019 19:10:00 +0000</pubDate>
-      
-      <guid>/project/wspdscanr/</guid>
-      <description>&lt;p&gt;The Winston-Salem Police Department host each night&amp;rsquo;s incidents on a webserver. This provides a great way to conduct analysis of where different incidents occur.&lt;/p&gt;
 </description>
     </item>
     
