@@ -4,56 +4,116 @@
   
   <url>
     <loc>/authors/michael/</loc>
-    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+    <lastmod>2019-10-13T19:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+    <lastmod>2019-10-13T19:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+    <lastmod>2019-10-13T19:50:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/income-data/</loc>
+    <lastmod>2019-10-13T19:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/irs/</loc>
+    <lastmod>2019-10-13T19:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/ncvoter/</loc>
-    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+    <lastmod>2019-10-13T19:50:04-04:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/package/</loc>
-    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+    <lastmod>2019-10-13T19:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/package/</loc>
-    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+    <lastmod>2019-10-13T19:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+    <lastmod>2019-10-13T19:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/public-data/</loc>
-    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+    <lastmod>2019-10-13T19:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/r/</loc>
-    <lastmod>2019-10-08T19:10:00+00:00</lastmod>
+    <lastmod>2019-10-13T19:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/rirs/</loc>
+    <lastmod>2019-10-13T19:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2019-10-13T19:50:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <lastmod>2019-10-13T19:50:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/economics/</loc>
+    <lastmod>2019-10-13T19:50:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/economics/</loc>
+    <lastmod>2019-10-13T19:50:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/gentification/</loc>
+    <lastmod>2019-10-13T19:50:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gentrification/</loc>
+    <lastmod>2019-10-13T19:50:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-10-13T19:50:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/stepping-into-gentrification/</loc>
+    <lastmod>2019-10-13T19:50:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/urbanization/</loc>
+    <lastmod>2019-10-13T19:50:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/urbanization/</loc>
+    <lastmod>2019-10-13T19:50:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/ncvoter/</loc>
     <lastmod>2019-10-08T19:10:00+00:00</lastmod>
   </url>
   
@@ -63,22 +123,7 @@
   </url>
   
   <url>
-    <loc>/tags/economics/</loc>
-    <lastmod>2019-10-08T06:24:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/economics/</loc>
-    <lastmod>2019-10-08T06:24:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/growth/</loc>
-    <lastmod>2019-10-08T06:24:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/incentives/</loc>
     <lastmod>2019-10-08T06:24:00-04:00</lastmod>
   </url>
   
@@ -88,12 +133,12 @@
   </url>
   
   <url>
-    <loc>/post/incentives-and-refro-corp/</loc>
+    <loc>/categories/incentives/</loc>
     <lastmod>2019-10-08T06:24:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/post/incentives-and-refro-corp/</loc>
     <lastmod>2019-10-08T06:24:00-04:00</lastmod>
   </url>
   

@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Michael DeWitt, {year}</copyright>
-    <lastBuildDate>Tue, 08 Oct 2019 19:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2019 19:10:00 +0000</lastBuildDate>
     
 	    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>package</title>
       <link>/categories/package/</link>
-      <pubDate>Tue, 08 Oct 2019 19:10:00 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2019 19:10:00 +0000</pubDate>
       
       <guid>/categories/package/</guid>
       <description></description>
@@ -24,9 +24,27 @@
     <item>
       <title>economics</title>
       <link>/categories/economics/</link>
-      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gentification</title>
+      <link>/categories/gentification/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gentification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>urbanization</title>
+      <link>/categories/urbanization/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/urbanization/</guid>
       <description></description>
     </item>
     

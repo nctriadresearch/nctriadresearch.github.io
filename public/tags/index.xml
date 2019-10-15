@@ -7,15 +7,33 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Michael DeWitt, {year}</copyright>
-    <lastBuildDate>Tue, 08 Oct 2019 19:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2019 19:10:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Income Data</title>
+      <link>/tags/income-data/</link>
+      <pubDate>Sun, 13 Oct 2019 19:10:00 +0000</pubDate>
+      
+      <guid>/tags/income-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IRS</title>
+      <link>/tags/irs/</link>
+      <pubDate>Sun, 13 Oct 2019 19:10:00 +0000</pubDate>
+      
+      <guid>/tags/irs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>package</title>
       <link>/tags/package/</link>
-      <pubDate>Tue, 08 Oct 2019 19:10:00 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2019 19:10:00 +0000</pubDate>
       
       <guid>/tags/package/</guid>
       <description></description>
@@ -24,7 +42,7 @@
     <item>
       <title>Public Data</title>
       <link>/tags/public-data/</link>
-      <pubDate>Tue, 08 Oct 2019 19:10:00 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2019 19:10:00 +0000</pubDate>
       
       <guid>/tags/public-data/</guid>
       <description></description>
@@ -33,9 +51,45 @@
     <item>
       <title>R</title>
       <link>/tags/r/</link>
-      <pubDate>Tue, 08 Oct 2019 19:10:00 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2019 19:10:00 +0000</pubDate>
       
       <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>/tags/development/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economics</title>
+      <link>/tags/economics/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gentrification</title>
+      <link>/tags/gentrification/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gentrification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>urbanization</title>
+      <link>/tags/urbanization/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/urbanization/</guid>
       <description></description>
     </item>
     
@@ -45,15 +99,6 @@
       <pubDate>Tue, 08 Oct 2019 19:10:00 +0000</pubDate>
       
       <guid>/tags/voting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>economics</title>
-      <link>/tags/economics/</link>
-      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/economics/</guid>
       <description></description>
     </item>
     

@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Michael DeWitt, {year}</copyright>
-    <lastBuildDate>Tue, 08 Oct 2019 19:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2019 19:10:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Projects</title>
       <link>/project/</link>
-      <pubDate>Tue, 08 Oct 2019 19:10:00 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2019 19:10:00 +0000</pubDate>
       
       <guid>/project/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Posts</title>
       <link>/post/</link>
-      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/</guid>
       <description></description>

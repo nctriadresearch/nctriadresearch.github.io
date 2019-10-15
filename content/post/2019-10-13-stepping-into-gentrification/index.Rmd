@@ -13,13 +13,13 @@ tags:
   - urbanization
   - development
 subtitle: ''
-summary: ''
+summary: 'This post explores the impacts and the context of the development project occuring at Whitaker Park, the former site of the R.J. Reynolds headquarters and manufacturing. This development could result in unchecked gentrification that might adversely effect the surrounding community.'
 authors: []
 lastmod: '2019-10-13T19:50:04-04:00'
 featured: no
 image:
   caption: 'Whitaker Park Location'
-  focal_point: ''
+  focal_point: 'center'
   preview_only: no
 projects: []
 bibliography: my_bib.bib
